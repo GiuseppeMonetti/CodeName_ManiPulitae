@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="monierro.codename_manipulitae.MainActivity"
-    android:background="@drawable/download">
+    android:background="@drawable/dave">
 
     <mehdi.sakout.fancybuttons.FancyButton
         android:id="@+id/btn_spotify"
